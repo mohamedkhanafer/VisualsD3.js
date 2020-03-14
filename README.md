@@ -11,7 +11,6 @@ I thus from the graph, estimated the percentage of time allocated for each activ
 ### 2. Final result usind D3
 The final result is the following:
 
-<p align="center">
-  <img src=https://github.com/mohamedkhanafer/D3.js_Visualization/blob/master/final_result.gif>
-</p>
+![D3 visual](/final_result.png)
+
 The complete visualization with a better quality can be accessed here: https://blockbuilder.org/mohamedkhanafer/8f66b1ffd960a9ec2b604f87d24bc547.
