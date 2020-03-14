@@ -9,8 +9,8 @@ As mentionned above, I first got inspired by Caitlin's tweet (https://twitter.co
 I thus from the graph, estimated the percentage of time allocated for each activity and was then able to construct the dataset used for the D3 visualization. The data powering the animation in the graph can be found here: https://gist.githubusercontent.com/mohamedkhanafer/c98be5b6981264a6d8054a0ae0436898/raw/e620fb6a09bd9a0e8f501d2de4ba93104622610c/gistfile1.txt. In the script above, I included all the detailed steps undertaken to reach this dataset. I advise to go through the code as it contains much explanations.
 
 ### 2. Final result usind D3
-The final result is the following:
+The final result is the following animated visual:
 
 ![D3 visual](/final_result.png)
 
-The complete visualization with a better quality can be accessed here: https://blockbuilder.org/mohamedkhanafer/8f66b1ffd960a9ec2b604f87d24bc547.
+The complete visualization with its animation and captions can be accessed here: https://blockbuilder.org/mohamedkhanafer/8f66b1ffd960a9ec2b604f87d24bc547.
