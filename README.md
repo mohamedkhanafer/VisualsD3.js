@@ -11,7 +11,6 @@ I thus from the graph, estimated the percentage of time allocated for each activ
 ### 2. Final result usind D3
 The final result is the following:
 
-![D3 visualization](/final_result.gif)
 <p align="center">
   <img src=https://github.com/mohamedkhanafer/D3.js_Visualization/blob/master/final_result.gif>
 </p>
